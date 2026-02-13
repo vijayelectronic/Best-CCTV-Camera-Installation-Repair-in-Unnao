@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vijayelectronic.github.io/Best-CCTV-Camera-Installation-Repair-in-Unnao/sitemap.xml
